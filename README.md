@@ -1,4 +1,5 @@
 # NewClassroomJavascript
+This is my second attempt at this assignment. I set out to fully code this in Python but when I had finished I was dissapointed in the result. I knew I could do a much better job utilizing Cypress.io so I have submitted both.
 
 Instructions
 1. Install NPM and Nodejs https://nodejs.org/en/download
